@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<?php include '/templates/menu.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/templates/menu.php'; ?>
 
    <!-- jQuery -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
