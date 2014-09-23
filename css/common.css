@@ -1,0 +1,7 @@
+/*
+This document creates all of the site wide styles needed.
+*/
+
+hgroup::after {
+   content: "<hr />";
+}
