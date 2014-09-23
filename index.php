@@ -21,7 +21,7 @@
 
 
         <div class="row">
-          <section class='col-xs-12 hidden-lg'>
+          <section class='col-xs-12 hidden-xs'>
             <section>
               <h2>Hello CS313</h2>
                 <p>This is my home page.</p>
