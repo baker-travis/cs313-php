@@ -5,7 +5,14 @@ This document creates all of the site wide styles needed.
 hgroup::after {
    content: "";
    display: block;
-   height: 3px;
+   height: 1px;
    margin: 10px 0;
    background: #E6E6E6;
+}
+
+.footer {
+  clear: both;
+    background-color: #f8f8f8;
+    border-color: #e7e7;
+  margin-top: 15px;
 }

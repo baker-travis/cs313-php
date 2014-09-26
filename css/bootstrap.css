@@ -1389,6 +1389,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  
 }
 @media (min-width: 768px) {
   .container {
@@ -1402,7 +1403,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 970px;
   }
 }
 .container-fluid {
@@ -3750,6 +3751,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .tab-content > .tab-pane {
   display: none;
+  margin-top: 15px;
 }
 .tab-content > .active {
   display: block;
