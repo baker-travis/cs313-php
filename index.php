@@ -17,18 +17,20 @@
 </head>
 
 <body>
-
     <?php include $_SERVER[ 'DOCUMENT_ROOT']. '/templates/menu.php'; ?>
 
     <section class='container'>
         <hgroup>
             <h1>So Who Is Travis Baker?</h1>
         </hgroup>
-        
+
         <ul class="nav nav-tabs" role="tablist">
-            <li class="active"><a href="#me" role="tab" data-toggle="tab">About Me</a></li>
-            <li><a href="#family" role="tab" data-toggle="tab">Family</a></li>
-            <li><a href="#experience" role="tab" data-toggle="tab">Technical Experience</a></li>
+            <li class="active"><a href="#me" role="tab" data-toggle="tab">About Me</a>
+            </li>
+            <li><a href="#family" role="tab" data-toggle="tab">Family</a>
+            </li>
+            <li><a href="#experience" role="tab" data-toggle="tab">Technical Experience</a>
+            </li>
         </ul>
 
         <div class="tab-content">
@@ -89,9 +91,8 @@
                 </p>
             </div>
         </div>
-        
+
     </section>
-    
     <footer class="footer text-center">
         <section class="container">
             <p class="text-muted">
