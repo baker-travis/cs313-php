@@ -84,6 +84,47 @@
                 <p>
                     My wife and I were married on June 15, 2013. We went on our honeymoon to San Anotnio, TX and stayed on the riverwalk. It was such a fun time! My wife is also from Houston, TX, which makes it nice for vacations when we go home. We have a child on the way. His name (yes it is a boy!) is Wesley Austin Baker. He will be born in February, 2015. My wife and I enjoy a good many things, but we really like movies. The Marvel movies are of a particular interest to us. We were sealed in the Houston, TX temple.
                 </p>
+                <div id="family-pictures" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#family-pictures" data-slide-to="0" class="active"></li>
+                        <li data-target="#family-pictures" data-slide-to="1"></li>
+                        <li data-target="#family-pictures" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="images/Engagement%20Pics.jpg" alt="One of our engagement pictures.">
+                            <div class="carousel-caption">
+                                <h3>Engagement Picture</h3>
+                                <p class="hidden-xs">We got engaged in Rexburg, ID and took our pictures at a spot just North of campus.</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/Roatan.JPG" alt="My wife and I with a monkey.">
+                            <div class="carousel-caption">
+                                <h3>Roatan, Honduras</h3>
+                                <p class="hidden-xs">My wife and I went on a cruise, and we went to a place where we got to hold monkeys!</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/Blake%20Shelton.JPG" alt="At a Blake Shelton Concert">
+                            <div class="carousel-caption">
+                                <h3>Blake Shelton</h3>
+                                <p class="hidden-xs">My wife and I went to see a concert starring Blake Shelton with performances from The Band Perry, Neal McCoy, and Dan and Shay.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#family-pictures" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#family-pictures" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
             </div>
             <div class="tab-pane" id="experience">
                 <p>
