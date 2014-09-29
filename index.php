@@ -66,7 +66,7 @@
                             <img src="images/Texans-Draft-Party.JPG" alt="Me and my dad at the Houston Texans draft party">
                             <div class="carousel-caption">
                                 <h3>Texans Draft Party</h3>
-                                <p class="hidden-xs">My Dad and I got to attend the draft party the Houston Texans held. Th Houston Texans, with the #1 overall draft pick in the NFL, chose Jadeveon Clowney.</p>
+                                <p class="hidden-xs">My Dad and I got to attend the draft party the Houston Texans held. The Houston Texans, with the #1 overall draft pick in the NFL, chose Jadeveon Clowney.</p>
                             </div>
                         </div>
                     </div>
