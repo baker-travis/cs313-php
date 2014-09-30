@@ -23,8 +23,15 @@
     <?php include $_SERVER[ 'DOCUMENT_ROOT']. '/templates/menu.php'; ?>
     <section class="container">
         <hgroup>
-            <h1>Assignments will be here!</h1>
+            <h1>Assignments</h1>
         </hgroup>
+        
+        <section class="row">
+            <div class="list-group col-xs-12">
+                <a href="music_survey.php" class="list-group-item">PHP Survey</a>
+            </div>
+        </section>
+        
     </section>
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
